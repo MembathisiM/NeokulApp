@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "769643884183",
+    "project_id": "neokulpro",
+    "storage_bucket": "neokulpro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769643884183:android:7457fb90e623171d4143d2",
+        "android_client_info": {
+          "package_name": "com.Neokul.NeoApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTT3aNdleVr9MUnD67tVOpQteiYiBeLEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
