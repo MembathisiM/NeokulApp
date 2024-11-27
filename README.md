@@ -25,3 +25,6 @@ cd auth-demo
   <script src="script.js"></script>
 </body>
 </html>
+git add .
+git commit -m "Initial commit with basic structure"
+git push origin main
